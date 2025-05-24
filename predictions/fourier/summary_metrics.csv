@@ -1,0 +1,12 @@
+Metric,Value
+loss,0.24
+accuracy,0.9282
+auc,0.95
+Overall Accuracy,0.9282
+Number of Test Samples,1500
+Class gan_generated Count,750
+Class real Count,750
+ROC AUC (gan_generated),0.947
+ROC AUC (real),0.947
+Average Precision (gan_generated),0.925
+Average Precision (real),0.932
